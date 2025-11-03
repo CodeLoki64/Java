@@ -21,6 +21,7 @@ public class HelloWorld {
         System.out.println("Hello, Java!");
     }
 }
+```
 No unnecessary symbols, no weird syntax — just straight to the point.
 
 🌍 Why Java Is So Versatile
@@ -49,6 +50,7 @@ public class ThreadExample extends Thread {
         t.start();
     }
 }
+```
 
 Multithreading, exceptions, generics, OOP design patterns...
 Sometimes it feels like:
@@ -59,6 +61,7 @@ try {
 } catch (Confusion e) {
     System.out.println("Why is this so hard 😭");
 }
+```
 
 But honestly, that’s what makes learning it fun.
 Every new concept feels like a level-up 💪
@@ -76,4 +79,4 @@ Every time I solve a problem in Java, I feel smarter 😌
 So yeah — Java is simple, versatile, and sometimes challenging…
 but that’s exactly why I love it.
 
-So to challenge myself I have solved [HackerRank](https://www.hackerrank.com/domains/java?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=java) normal java programs, then I will also upload my problem solving questions too
+So to challenge myself I have solved [HackerRank](https://www.hackerrank.com/domains/java?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=java) normal java programs, then I will also upload my problem solving questions too.
